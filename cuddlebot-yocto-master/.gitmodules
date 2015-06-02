@@ -1,0 +1,19 @@
+[submodule "sources/base"]
+	path = sources/base
+	url = git://github.com/Freescale/fsl-community-bsp-base
+[submodule "sources/meta-fsl-arm"]
+	path = sources/meta-fsl-arm
+	url = git://git.yoctoproject.org/meta-fsl-arm
+[submodule "sources/meta-openembedded"]
+	path = sources/meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+[submodule "sources/meta-smartphone"]
+	path = sources/meta-smartphone
+	url = git://github.com/shr-distribution/meta-smartphone.git
+[submodule "sources/poky"]
+	path = sources/poky
+	url = git://git.yoctoproject.org/poky
+[submodule "sources/meta-fsl-arm-extra"]
+	path = sources/meta-fsl-arm-extra
+	url = https://github.com/Freescale/meta-fsl-arm-extra.git
+	branch = daisy
